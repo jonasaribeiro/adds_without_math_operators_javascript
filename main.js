@@ -51,9 +51,9 @@ function add(n1, n2){
 
 }
 
-console.log(`20 + 20 = ${add(20, 20)}`)
-console.log(`(-20) + 10 = ${add(-20, 10)}`)
-console.log(`10 + (-20) = ${add(10, -20)}`)
-console.log(`(-10) + (-10) = ${add(-10, -10)}`)
-console.log(`10 + (-10) = ${add(10, -10)}`)
-console.log(`(-10) + 10 = ${add(-10, 10)}`)
+console.log(add(20, 20))
+console.log(add(-20, 10))
+console.log(add(10, -20))
+console.log(add(-10, -10))
+console.log(add(10, -10))
+console.log(add(-10, 10))
